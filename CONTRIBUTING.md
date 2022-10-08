@@ -24,7 +24,7 @@ All types of contributions are encouraged and valued. See the [Table of Contents
 ## Code of Conduct
 
 This project and everyone participating in it is governed by the
-[Web Projects Code of Conduct](https://github.com/arpitghura/web-projectsblob/master/CODE_OF_CONDUCT.md).
+[Web Projects Code of Conduct](https://github.com/arpitghura/web-projectsblob/main/CODE_OF_CONDUCT.md).
 By participating, you are expected to uphold this code. Please report unacceptable behavior
 to <ghurarpit110@gmail.com>.
 
