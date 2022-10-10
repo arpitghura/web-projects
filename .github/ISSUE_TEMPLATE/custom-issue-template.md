@@ -2,9 +2,9 @@
 name: Custom issue template
 about: Describe this issue template's purpose here.
 title: ''
-labels: ''
+labels: Hacktoberfest
 assignees: ''
 
 ---
 
-
+I am facing issue when...
